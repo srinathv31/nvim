@@ -13,7 +13,11 @@ Personal neovim configuration built on [LazyVim](https://github.com/LazyVim/Lazy
 2. Clone this repo:
 
    ```bash
-   git clone git@github.com:srinathv31/nvim-config.git ~/.config/nvim
+   # macOS / Linux
+   git clone git@github.com:<your-username>/nvim-config.git ~/.config/nvim
+
+   # Windows
+   git clone git@github.com:<your-username>/nvim-config.git ~/AppData/Local/nvim
    ```
 
 3. Open neovim — plugins install automatically on first launch:
